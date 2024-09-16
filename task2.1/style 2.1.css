@@ -28,12 +28,17 @@ section {
 	padding-left: 0.5em;
 	position: static;
 	display: inline-block;
+	box-sizing: border-box;
+    vertical-align: top;
 }
 
 aside {
 	width: 80%;
 	float: left;
 	margin-left: 0.5em;
+	display: inline-block;
+	box-sizing: border-box;
+    vertical-align: top;
 }
 
 
