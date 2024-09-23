@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 body {
@@ -11,9 +11,9 @@ body {
 }
 
 main {
-  width: 700px;
-  margin: auto;
-  height: auto;
-  background-color: blue;
-  color: white;
+	width: 700px;
+	margin: auto;
+	height: auto;
+	background-color: blue;
+	color: white;
 }
