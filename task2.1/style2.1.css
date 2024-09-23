@@ -33,7 +33,7 @@ section {
 }
 
 aside {
-	width: 80%;
+	width: calc(100% - 220px);
 	float: left;
 	margin-left: 0.5em;
 	display: inline-block;
@@ -41,4 +41,15 @@ aside {
     vertical-align: top;
 }
 
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	background-color: black;
+	text-align: center;
+	padding: 5px 0 5px;
+}
 
+.link {
+	color: #FFFF80;
+}
