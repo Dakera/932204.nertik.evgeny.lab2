@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+main {
+    background-color: white;
+	color: black;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.content {
+	display: flex;
+	flex-flow: row wrap;
+	height: auto;
+	margin: 0.5%;
+	background-color: aqua;
+	border: 1px solid green;
+}
+
+.list {
+	background-color: #FFE5B4;
+	display: flex;
+	align-items: center;
+	float: left;
+	margin: 0 5px 0 0;
+	height: 80px;
+	width: 20%;
+	min-width: 120px;
+}
+
+.list ul {
+	margin: 0 40px;
+}
+
+.text {
+	float: left;
+	background-color: darkgray;
+	width: 79.5%;
+}
+

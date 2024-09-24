@@ -18,18 +18,18 @@ main {
 	align-items: center;
 	margin: auto;
 	height: auto;
-	color: white;
+	color: black;
 }
 
 .one {
     max-width: 500px;
-    background-color: green;
-    margin-top: 20px;
+    background-color: white;
+    margin: 20px;
 }
 
 .two {
-    max-width: 500px;
-    background-color: blue;
+    max-width: 380px;
+    background-color: white;
     padding: 50px;
-    border: 20px solid white;
+    border: 10px solid blue;
 }
